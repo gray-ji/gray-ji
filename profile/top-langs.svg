@@ -1,0 +1,157 @@
+<svg width="500" height="220"
+viewBox="0 0 500 220"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="500" height="220" rx="12" fill="#0d1117"/>
+
+<text x="30" y="25"
+font-family="Arial, sans-serif"
+font-size="22"
+font-weight="bold"
+fill="#ffffff">
+Top Languages
+</text>
+
+
+            <text x="30" y="45"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            font-weight="bold"
+            fill="#ffffff">
+            Java
+            </text>
+
+            <text x="410" y="45"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            text-anchor="end"
+            fill="#8b949e">
+            58.6%
+            </text>
+
+            <rect x="30" y="53"
+            width="410"
+            height="7"
+            rx="3"
+            fill="#30363d"/>
+
+            <rect x="30" y="53"
+            width="240.1"
+            height="7"
+            rx="3"
+            fill="#58a6ff"/>
+            
+            <text x="30" y="75"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            font-weight="bold"
+            fill="#ffffff">
+            JavaScript
+            </text>
+
+            <text x="410" y="75"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            text-anchor="end"
+            fill="#8b949e">
+            20.5%
+            </text>
+
+            <rect x="30" y="83"
+            width="410"
+            height="7"
+            rx="3"
+            fill="#30363d"/>
+
+            <rect x="30" y="83"
+            width="84.0"
+            height="7"
+            rx="3"
+            fill="#58a6ff"/>
+            
+            <text x="30" y="105"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            font-weight="bold"
+            fill="#ffffff">
+            PHP
+            </text>
+
+            <text x="410" y="105"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            text-anchor="end"
+            fill="#8b949e">
+            13.7%
+            </text>
+
+            <rect x="30" y="113"
+            width="410"
+            height="7"
+            rx="3"
+            fill="#30363d"/>
+
+            <rect x="30" y="113"
+            width="56.1"
+            height="7"
+            rx="3"
+            fill="#58a6ff"/>
+            
+            <text x="30" y="135"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            font-weight="bold"
+            fill="#ffffff">
+            HTML
+            </text>
+
+            <text x="410" y="135"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            text-anchor="end"
+            fill="#8b949e">
+            3.2%
+            </text>
+
+            <rect x="30" y="143"
+            width="410"
+            height="7"
+            rx="3"
+            fill="#30363d"/>
+
+            <rect x="30" y="143"
+            width="13.2"
+            height="7"
+            rx="3"
+            fill="#58a6ff"/>
+            
+            <text x="30" y="165"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            font-weight="bold"
+            fill="#ffffff">
+            CSS
+            </text>
+
+            <text x="410" y="165"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            text-anchor="end"
+            fill="#8b949e">
+            1.2%
+            </text>
+
+            <rect x="30" y="173"
+            width="410"
+            height="7"
+            rx="3"
+            fill="#30363d"/>
+
+            <rect x="30" y="173"
+            width="4.8"
+            height="7"
+            rx="3"
+            fill="#58a6ff"/>
+            
+
+</svg>
