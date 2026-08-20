@@ -33,6 +33,7 @@
       <b>🎫 6pm · 2026</b><br>
       <sub>팬덤 SNS와 선착순 티켓팅을 결합한 Kafka 기반 MSA 플랫폼</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square">
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square">
@@ -59,6 +60,7 @@
       <b>📦 LogiBox · 2026</b><br>
       <sub>물류 허브 네트워크 기반의 MSA 배송 관리 시스템</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square">
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square">
       <img src="https://img.shields.io/badge/QueryDSL-07ADEE?style=flat-square">
@@ -68,7 +70,7 @@
       <img src="https://img.shields.io/badge/OpenFeign-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Resilience4j-F7DF1E?style=flat-square">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-231F20?style=flat-square">
       <br><br>
       <!-- Core Contributions -->
       <b>⚡ Core Contributions</b><br>
@@ -88,6 +90,7 @@
       <b>🍚 오늘한끼 · 2026</b><br>
       <sub>주문부터 결제까지 처리하는 통합 배달 플랫폼</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square">
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square">
@@ -111,6 +114,7 @@
       <b>🏆 FLOTI · 2025 ~</b><br>
       <sub>성향 분석과 커뮤니티를 결합한 목표 달성 앱</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square"> 
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square">
       <img src="https://img.shields.io/badge/QueryDSL-07ADEE?style=flat-square">
@@ -138,6 +142,7 @@
       <b>🌺 생화 24 · 2025</b><br>
       <sub>화훼 도·소매업자를 위한 B2B 거래 플랫폼</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square"> 
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square"> 
       <img src="https://img.shields.io/badge/MyBatis-C70D2C?style=flat-square"> 
@@ -145,7 +150,8 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square"> 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square">
-      <img src="https://img.shields.io/badge/JSP-D97706?style=flat-square"><br><br>
+      <img src="https://img.shields.io/badge/JSP-D97706?style=flat-square">
+      <br><br>
       <!-- Core Contributions -->
       <b>⚡ Core Contributions</b><br>
       <sub>
@@ -162,12 +168,14 @@
       <b>🌿 채식 어디 · 2024</b><br>
       <sub>채식 유형별 제품 판독 및 맞춤형 제품 추천 서비스</sub><br><br>
       <!-- Tech Badges -->
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square"> 
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square"> 
       <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"> 
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"> 
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square">
       <br><br>
       <!-- Core Contributions -->
       <b>⚡ Core Contributions</b><br>
